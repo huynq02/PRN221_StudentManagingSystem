@@ -9,185 +9,185 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentManagingSystem
 build_property.RootNamespace = StudentManagingSystem
-build_property.ProjectDir = C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\
+build_property.ProjectDir = G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem
+build_property.MSBuildProjectDirectory = G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/ClassroomPage/AddClass.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/ClassroomPage/AddClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nyb29tUGFnZVxBZGRDbGFzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/ClassroomPage/ClassRoom.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/ClassroomPage/ClassRoom.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nyb29tUGFnZVxDbGFzc1Jvb20uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/ClassroomPage/DeleteClass.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/ClassroomPage/DeleteClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nyb29tUGFnZVxEZWxldGVDbGFzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/ClassroomPage/UpdateClass.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/ClassroomPage/UpdateClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nyb29tUGFnZVxVcGRhdGVDbGFzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/DepartmentPage/AddDepartment.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/DepartmentPage/AddDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFBhZ2VcQWRkRGVwYXJ0bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/DepartmentPage/DeleteDepartment.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/DepartmentPage/DeleteDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFBhZ2VcRGVsZXRlRGVwYXJ0bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/DepartmentPage/Department.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/DepartmentPage/Department.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFBhZ2VcRGVwYXJ0bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/DepartmentPage/UpdateDepartment.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/DepartmentPage/UpdateDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFBhZ2VcVXBkYXRlRGVwYXJ0bWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Error.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Forbidden.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Forbidden.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yYmlkZGVuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Index.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Login.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Logout.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/NotificationPage/AddNotification.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/NotificationPage/AddNotification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWZpY2F0aW9uUGFnZVxBZGROb3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/NotificationPage/DeleteNotification.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/NotificationPage/DeleteNotification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWZpY2F0aW9uUGFnZVxEZWxldGVOb3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/NotificationPage/Notification.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/NotificationPage/Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWZpY2F0aW9uUGFnZVxOb3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/NotificationPage/UpdateNotification.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/NotificationPage/UpdateNotification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWZpY2F0aW9uUGFnZVxVcGRhdGVOb3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/PointPage/AddPoint.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/PointPage/AddPoint.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9pbnRQYWdlXEFkZFBvaW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/PointPage/DeletePoint.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/PointPage/DeletePoint.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9pbnRQYWdlXERlbGV0ZVBvaW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/PointPage/Point.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/PointPage/Point.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9pbnRQYWdlXFBvaW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/PointPage/UpdatePoint.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/PointPage/UpdatePoint.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9pbnRQYWdlXFVwZGF0ZVBvaW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Privacy.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Register.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_ErrorLayout.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_ErrorLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9FcnJvckxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_ListStudentPartial.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_ListStudentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MaXN0U3R1ZGVudFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_LoginLayout.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_NotificationPartial.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_NotificationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/StudentPage/AddStudent.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/StudentPage/AddStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFBhZ2VcQWRkU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/StudentPage/DeleteStudent.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/StudentPage/DeleteStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFBhZ2VcRGVsZXRlU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/StudentPage/Student.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/StudentPage/Student.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFBhZ2VcU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/StudentPage/UpdateStudent.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/StudentPage/UpdateStudent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudFBhZ2VcVXBkYXRlU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/SubjectPage/AddSubject.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/SubjectPage/AddSubject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdFBhZ2VcQWRkU3ViamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/SubjectPage/DeleteSubject.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/SubjectPage/DeleteSubject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdFBhZ2VcRGVsZXRlU3ViamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/SubjectPage/Subject.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/SubjectPage/Subject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdFBhZ2VcU3ViamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/SubjectPage/UpdateSubject.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/SubjectPage/UpdateSubject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdFBhZ2VcVXBkYXRlU3ViamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/TeacherPage/AddTeacher.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/TeacherPage/AddTeacher.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlclBhZ2VcQWRkVGVhY2hlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/TeacherPage/DeleteTeacher.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/TeacherPage/DeleteTeacher.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlclBhZ2VcRGVsZXRlVGVhY2hlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/TeacherPage/Teacher.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/TeacherPage/Teacher.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlclBhZ2VcVGVhY2hlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/TeacherPage/UpdateTeacher.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/TeacherPage/UpdateTeacher.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlclBhZ2VcVXBkYXRlVGVhY2hlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/UserProfile.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/UserProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/_ViewImports.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/_ViewStart.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/PhamTienDat/Desktop/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_Layout.cshtml]
+[G:/FPT University/Summer 2023/PRN221/Project/StudentManagingSystem/StudentManagingSystem/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ahsg71bdw6
