@@ -1,0 +1,1197 @@
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\appsettings.Development.json
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.staticwebassets.runtime.json
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.exe
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\appsettings.json
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.deps.json
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.runtimeconfig.json
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.pdb
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\mscorlib.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\netstandard.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Console.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Core.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Memory.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Web.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Windows.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\AutoMapper.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Humanizer.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\NToastNotify.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.AssemblyReference.cache
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.AssemblyInfoInputs.cache
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.AssemblyInfo.cs
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.CoreCompileInputs.cache
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.RazorAssemblyInfo.cache
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.RazorAssemblyInfo.cs
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.StudentManagingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentManagingSystem.props
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagingSystem.props
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentManagingSystem.props
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.build.json
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.development.json
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\bundle\StudentManagingSystem.styles.css
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\projectbundle\StudentManagingSystem.bundle.scp.css
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.CopyComplete
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\refint\StudentManagingSystem.dll
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.pdb
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.genruntimeconfig.cache
+E:\StudentManagingSystem-Net\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\ref\StudentManagingSystem.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\appsettings.Development.json
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.staticwebassets.runtime.json
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.exe
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\appsettings.json
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.deps.json
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.runtimeconfig.json
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.pdb
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\mscorlib.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\netstandard.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.AppContext.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Buffers.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Configuration.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Console.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Core.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.Common.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Drawing.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Memory.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Http.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Mail.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Ping.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Requests.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Security.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Numerics.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ObjectModel.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Claims.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Principal.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Json.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Transactions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ValueTuple.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Web.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Windows.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\WindowsBase.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\AutoMapper.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Humanizer.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\NToastNotify.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.AssemblyReference.cache
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.AssemblyInfoInputs.cache
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.AssemblyInfo.cs
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.CoreCompileInputs.cache
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.MvcApplicationPartsAssemblyInfo.cs
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.MvcApplicationPartsAssemblyInfo.cache
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.RazorAssemblyInfo.cache
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.RazorAssemblyInfo.cs
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.StudentManagingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentManagingSystem.props
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagingSystem.props
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentManagingSystem.props
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.pack.json
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.build.json
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.development.json
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\bundle\StudentManagingSystem.styles.css
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\projectbundle\StudentManagingSystem.bundle.scp.css
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.CopyComplete
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\refint\StudentManagingSystem.dll
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.pdb
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.genruntimeconfig.cache
+G:\FPT University\Summer 2023\PRN221\Project\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\ref\StudentManagingSystem.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.staticwebassets.runtime.json
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.exe
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.deps.json
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.runtimeconfig.json
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\StudentManagingSystem.pdb
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\NToastNotify.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.AssemblyReference.cache
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.AssemblyInfoInputs.cache
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.AssemblyInfo.cs
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.CoreCompileInputs.cache
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.RazorAssemblyInfo.cache
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.RazorAssemblyInfo.cs
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.StudentManagingSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentManagingSystem.props
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentManagingSystem.props
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentManagingSystem.props
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\bundle\StudentManagingSystem.styles.css
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\scopedcss\projectbundle\StudentManagingSystem.bundle.scp.css
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.csproj.CopyComplete
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\refint\StudentManagingSystem.dll
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.pdb
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\StudentManagingSystem.genruntimeconfig.cache
+C:\Users\PhamTienDat\Desktop\StudentManagingSystem\StudentManagingSystem\obj\Debug\net6.0\ref\StudentManagingSystem.dll
